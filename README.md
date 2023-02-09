@@ -11,7 +11,7 @@ Para ver el perfil de la estudiante 🌸  🥑Paola Benitez 🥑.
 Estoy estudiando en el TecTijuana:
 
 - 🔭 Estudie en la preparatoria de Cobach "Ruben Vizcaino Valencia"
-- 😄 Estoy estudiando la carrera de ingenieria en sistemas computacionales 
+- 😄 Estoy estudiando la carrera de ingenieria en sistemas computacionales.
 
 
 Mis gustos:
@@ -20,5 +20,4 @@ Mis gustos:
 - 🐓 Me gustan las gallinas y gallos
 - 🐈 Me gustan los gatos
 
-
-
+![image](https://user-images.githubusercontent.com/124212478/217955847-39d4ba5b-8396-432c-a08b-634e9b78bbfe.png)
