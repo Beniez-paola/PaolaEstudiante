@@ -20,4 +20,4 @@ Mis gustos:
 - 🐓 Me gustan las gallinas y gallos
 - 🐈 Me gustan los gatos
 
-![image](https://user-images.githubusercontent.com/124212478/217955847-39d4ba5b-8396-432c-a08b-634e9b78bbfe.png)
+![image](https://user-images.githubusercontent.com/124212478/217955932-0cd9b178-53e3-4240-af77-a346e266bd39.png)
